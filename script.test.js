@@ -14,7 +14,7 @@ const {
   filterByAge,
   compose,
   doubleEvenNumbersandSum,
-} = require('./stringTransformations'); // Adjust the path as needed
+} = require('./script'); 
 
 describe('String Transformations', () => {
   test('capitalizes the first letter of a string', () => {
